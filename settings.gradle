@@ -3,3 +3,5 @@ include "bukkit"
 include "common"
 include "sponge"
 include "GriefDefenderAPI"
+include 'forge'
+
